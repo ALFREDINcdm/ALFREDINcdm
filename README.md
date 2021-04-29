@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there I´m 👋
 
-<!--
-**ALFREDINcdm/ALFREDINcdm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# JOSÉ ALFREDO GARCIA CORTES
+
+<img align='right' src="https://media.giphy.com/media/24652QfeZzNIPzoH36/giphy.gif" width="350" height="150">
+
+welcome to my profile, I'm  computer systems engineering student
+
+
+```js
+class Skills extends SoftwareDeveloper {
+  languages  = ['Java', 'Python','JS'];
+  databases  = ['MySQL'];
+  frameworks = ['Angular'];
+}
+
+ class Learning extends SoftwareDeveloper {
+   languages  = ['go'];
+}
+```
