@@ -11,12 +11,12 @@ welcome to my profile, I'm  computer systems engineering student
 
 ```js
 class Skills extends SoftwareDeveloper {
-  languages  = ['Java', 'Python','JS'];
+  languages  = ['Java','JS'];
   databases  = ['MySQL'];
-  frameworks = ['Angular'];
+  frameworks = [''];
 }
 
  class Learning extends SoftwareDeveloper {
-   languages  = ['go'];
+   languages  = ['Python'];
 }
 ```
