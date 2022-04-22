@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="200" src="<iframe src="https://giphy.com/embed/ZVik7pBtu9dNS" width="480" height="268" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/life-interesting-footage-ZVik7pBtu9dNS">via GIPHY</a></p>">
+    <img width="200" src="https://external-preview.redd.it/4iLw261NYmI75Vfek2tOjV7zsGVZzXAgp5GhSD0k2tE.gif?format=mp4&s=658a635332a27d9dd8835211bf58be0b25a626f8">via GIPHY</a></p>">
 </p>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
