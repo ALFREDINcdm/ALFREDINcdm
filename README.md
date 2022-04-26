@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="200" src="https://c.tenor.com/XDjCZPAKx1AAAAAC/silicon-valley.gif"></a></p>
+    <img width="400" src="https://c.tenor.com/XDjCZPAKx1AAAAAC/silicon-valley.gif"></a></p>
 </p>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
