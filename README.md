@@ -29,7 +29,6 @@
 <a href = 'https://github.com/AlfredDev'> <img width ='32px' src ='https://miro.medium.com/max/500/1*AbiX4LwtSNozoyfypcKvEg.png'> </a>
 <a href = 'https://github.com/AlfredDev'> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href = 'https://github.com/AlfredDev'> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
- <a href = 'https://github.com/AlfredDev'> <img width ='32px' src ='https://cdn-icons.flaticon.com/png/512/4248/premium/4248443.png?token=exp=1650664362~hmac=983cdd9dd01cb98955de1e489d9f2163'> </a>
     <a href = 'https://github.com/AlfredDev'> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 <a href = 'https://github.com/AlfredDev'> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 <a href = 'https://github.com/AlfredDev'> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
