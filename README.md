@@ -6,7 +6,6 @@
 
 
 
-
 <div size='20px'> Hi! My name is Alfred. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
