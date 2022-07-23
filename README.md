@@ -13,24 +13,19 @@
 
 - 🔭 I’m currently working on  Estudent
   
-- 🌱 I’m currently learning Git, Python y GitHub
+- 🌱 I’m currently learning Microservices, Docker, React Native
   
 - 👯 I’m looking to collaborate on projects
   
 - 💬 Ask me about Sql, Java, JavaScript
   
-- ⚡ Fun fact: Me gustan los video juegos.
+- ⚡ Fun fact: I like videogames
 
-<h2> Skills </h2>
-<a href = 'https://github.com/AlfredDev'> <img width ='32px' src ='https://cdn-icons-png.flaticon.com/512/226/226777.png'> </a>
-<a href = 'https://github.com/AlfredDev'> <img width ='32px' src ='https://miro.medium.com/max/500/1*AbiX4LwtSNozoyfypcKvEg.png'> </a>
-<a href = 'https://github.com/AlfredDev'> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href = 'https://github.com/AlfredDev'> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
-    <a href = 'https://github.com/AlfredDev'> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href = 'https://github.com/AlfredDev'> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href = 'https://github.com/AlfredDev'> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<a href = 'https://github.com/AlfredDev'>  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
+<h2>  Languages and Tools </h2> 
+<div style="display: inline-block">
+  <img align="center"  width="35" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />
 
+</div>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.instagram.com/el_fr3ddo/'>  <img width = '32px' align= 'center' src="https://cdn-icons-png.flaticon.com/512/174/174855.png"/></a> 
