@@ -28,7 +28,7 @@
   <img align="center"  width="35" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg" />
   <img align="center"  width="35" src="https://cdn-icons-png.flaticon.com/512/2621/2621113.png" />
   //
-  <img align="center"  width="35" src="https://cdn-icons.flaticon.com/png/512/1183/premium/1183672.png?token=exp=1658551144~hmac=ce01558c3870e4ec68c625265271c054" />
+  <img align="center"  width="35" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" />
   <img align="center"  width="35" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" />
   <img align="center"  width="35" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" />
    <img align="center" alt="Git"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
