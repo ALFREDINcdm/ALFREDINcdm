@@ -9,7 +9,7 @@
 
 <h2> About Me </h2> 
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 I’m currently working on  Estudent
   
@@ -22,9 +22,24 @@
 - ⚡ Fun fact: I like videogames
 
 <h2>  Languages and Tools </h2> 
-<div style="display: inline-block">
+<div style="display: inline-block" width=100%>
   <img align="center"  width="35" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />
-
+  <img align="center"  width="35" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" />
+  <img align="center"  width="35" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg" />
+  <img align="center"  width="35" src="https://cdn-icons-png.flaticon.com/512/2621/2621113.png" />
+  //
+  <img align="center"  width="35" src="https://cdn-icons.flaticon.com/png/512/1183/premium/1183672.png?token=exp=1658551144~hmac=ce01558c3870e4ec68c625265271c054" />
+  <img align="center"  width="35" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" />
+  <img align="center"  width="35" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" />
+   <img align="center" alt="Git"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  //
+  <img align="center"  width="35" src="https://cdn-icons-png.flaticon.com/512/174/174854.png" />
+  <img align="center"  width="35" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" />
+  <img align="center"  width="35" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />
+  //
+  <img align="center"  width="35" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" />
+  <img align="center"  width="35" src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" />
+  <img align="center"  width="35" src="https://cdn-icons-png.flaticon.com/512/226/226772.png" />
 </div>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
