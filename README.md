@@ -44,7 +44,7 @@
 
 | ![Alfred's github stats](https://github-readme-stats.vercel.app/api?username=AlfredDev&show_icons=true&theme=tokyonight) | ![Alfred GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlfredDev&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredDev&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=AlfredDev&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredDev&layout=compact&langs_count=7&theme=tokyonight&exclude_repo=Worderful_Game,loopy_game,SmartPhone1,compiladores,top-analise-redes-neurais,Battle_Plane)](https://github.com/anuraghazra/github-readme-stats) |
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
