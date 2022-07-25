@@ -50,7 +50,6 @@
 <br>
   <br>
   
-[![Alfred's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AlfredDev&theme=tokyonight)](https://git.io/praveenscience)
 
 | ![Alfred's github stats](https://github-readme-stats.vercel.app/api?username=AlfredDev&show_icons=true&theme=tokyonight) | ![Alfred GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlfredDev&theme=tokyonight) |
 | --- | --- |
