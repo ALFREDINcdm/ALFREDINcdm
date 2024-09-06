@@ -55,5 +55,5 @@
 | --- | --- |
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredDev&layout=compact&langs_count=7&theme=tokyonight&exclude_repo=Worderful_Game,loopy_game,SmartPhone1,compiladores,top-analise-redes-neurais,Battle_Plane) 
 
-![Snake animation](https://github.com/EnriqueIzel2/EnriqueIzel2/blob/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
 
