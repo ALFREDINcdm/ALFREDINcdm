@@ -53,7 +53,7 @@
 
 | ![Alfred's github stats](https://github-readme-stats.vercel.app/api?username=AlfredDev&show_icons=true&theme=tokyonight) | ![Alfred GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlfredDev&theme=tokyonight) |
 | --- | --- |
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredDev&layout=compact&langs_count=7&theme=tokyonight&exclude_repo=Worderful_Game,loopy_game,SmartPhone1,compiladores,top-analise-redes-neurais,Battle_Plane) 
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredDev&layout=compact&langs_count=7&theme=tokyonight&exclude_repo=Worderful_Game,loopy_game,SmartPhone1,compiladores,top-analise-redes-neurais,Battle_Plane) | ![LeetCode Stats](https://leetcard.jacoblin.cool/AlfredDev02?theme=dark&font=Shippori%20Antique%20B1) |
 
 ![Snake Animation](https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
 
