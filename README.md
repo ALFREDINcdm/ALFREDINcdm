@@ -15,7 +15,7 @@
   
 - 🌱 I’m currently learning Microservices, Docker, React Native
   
-- 👯 I’m looking to collaborate on projects
+- 👯 I’m looking to collaborate
   
 - 💬 Ask me about Sql, Java, JavaScript
   
@@ -45,7 +45,8 @@
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/alfred-garcia142/'>  <img width = '32px' align= 'center' src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/></a> 
 <a href = 'https://github.com/AlfredDev'>  <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-  
+<a href = 'https://www.chess.com/member/thehudsongb'>  <img width = '32px' align= 'center' src="https://static.wikia.nocookie.net/logopedia/images/4/4a/Chess.com_2019_%28App_Icon%29.png/revision/latest/scale-to-width-down/250?cb=20221006103032"/></a>
+
 <br>
 <br>
   <br>
